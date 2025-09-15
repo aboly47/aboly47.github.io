@@ -6,4 +6,4 @@ I plan on writing and publishing 1-3 posts a day, one for games in game nights, 
 
 ![The barcelona logo](https://upload.wikimedia.org/wikipedia/sco/thumb/4/47/FC_Barcelona_%28crest%29.svg/213px-FC_Barcelona_%28crest%29.svg.png?20170427233659)
 
-Note: I don't own any of the above images. the source is Wikipedia.
+Note: I don't own any of the above images. The source is Wikipedia.
