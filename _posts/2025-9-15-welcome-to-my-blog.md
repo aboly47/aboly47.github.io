@@ -4,4 +4,4 @@ Welcome to my blog! I am Abolfazl Malekpour, and I am a Barcelona fan. this is m
 
 I plan on writing and publishing 1-3 posts a day, one for games in game nights, one for news, and one for anything else. obviousl, when there are no games in a day I can't write about a game, but I can fill that with analysis and stuff. However, I have school starting next week and I have work too, so I might not be able to do full 3 posts a day everyday, but I'll try my best. 😅
 
-![The barcelona logo](barca_logo.png)
+![The barcelona logo](https://github.com/aboly47/aboly47.github.io/blob/main/_posts/barca_logo.png)
