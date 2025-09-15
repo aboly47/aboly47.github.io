@@ -20,11 +20,6 @@ layout: default
   <div class="share-links">
     {% include sharelinks.html %}
   </div>
-
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-    {% include navlinks.html %}
-  </div>
 <script src="https://giscus.app/client.js"
         data-repo="aboly47/aboly47.github.io"
         data-repo-id="R_kgDOPwVhkg"
@@ -40,5 +35,9 @@ layout: default
         crossorigin="anonymous"
         async>
 </script>
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+    {% include navlinks.html %}
+  </div>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
