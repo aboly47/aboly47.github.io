@@ -16,10 +16,6 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
       {%- endif -%}</p>
   </header>
-
-  <div class="share-links">
-    {% include sharelinks.html %}
-  </div>
 <script src="https://giscus.app/client.js"
         data-repo="aboly47/aboly47.github.io"
         data-repo-id="R_kgDOPwVhkg"
@@ -35,6 +31,9 @@ layout: default
         crossorigin="anonymous"
         async>
 </script>
+  <div class="share-links">
+    {% include sharelinks.html %}
+  </div>
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
     {% include navlinks.html %}
