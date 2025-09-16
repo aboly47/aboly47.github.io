@@ -80,7 +80,7 @@ Left wing / attack:	Anthony Elanga; possibly Harvey Barnes or substitute if Wiss
 
 Striker:	Probably a central forward (if Wissa out then someone else; Nick Woltemade may feature)
 
-![NewCastle Likely Starting XI](https://www.fotmob.com/lineup-builder?players=280484:Pope,191869:Trippier,189982:Sch%C3%A4r,956682:Botman,1107910:Livramento,850354:Guimaraes,867414:Tonali,906937:Gordon,521148:Murphy,1050166:Elanga,1106563:Woltemade&formation=4-2-3-1&lineupTitle=NewCastle%20Likely%20Starting%20XI)
+![NewCastle Likely Starting XI](https://www.fotmob.com/api/data/lineup-builder/team?players=280484:Pope,191869:Trippier,189982:Sch%C3%A4r,956682:Botman,1107910:Livramento,850354:Guimaraes,867414:Tonali,906937:Gordon,521148:Murphy,1050166:Elanga,1106563:Woltemade&formation=4-2-3-1&lineupTitle=NewCastle%20Likely%20Starting%20XI)
 
 ### Injured Players:
 
