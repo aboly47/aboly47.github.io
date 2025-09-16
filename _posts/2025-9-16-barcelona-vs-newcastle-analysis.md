@@ -11,7 +11,7 @@ Here is my line up predictions, team analysis, and result prediction for this ga
 (Also, I am working on including dark mode and a TTS service in the blog, but until then you can use the Dark Reader extension and the the speechify extension if you want these features.)
 
 ## Barcelona's lineup (Predicted, not confirmed):
-![Cat Culer!](file:///C:/Users/Abolfazl/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/CatCulerBarcelonaMascotGIF.gif)
+![Cat Culer!](https://media1.tenor.com/m/oXpMJ2GfdS8AAAAd/cat-culer-barcelona-mascot.gif)
 
 Formation: A variant of 4-2-3-1.
 
