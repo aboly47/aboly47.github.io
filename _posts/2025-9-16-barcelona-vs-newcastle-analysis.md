@@ -36,7 +36,7 @@ Goalkeeper: Wojciech Szczęsny
 
 Defence: Cubarsi, Eric García
 
-Midfield: Dani Olmo, Frankie de Jong if her returns in time
+Midfield: Dani Olmo, Frankie de Jong if he returns in time
 
 Attack: Marcus Rashford, Roony Bardghji
 
