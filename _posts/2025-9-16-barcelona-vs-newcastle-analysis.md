@@ -6,6 +6,8 @@ The match will take place at 18th of Sep, 2025 at 4:30 PM UTC.
 
 Here is my line up predictions, team analysis, and result prediction for this game.
 
+(My review of our start to the season is coming after gameweek 5.)
+
 ## Barcelona's lineup (Predicted, not confirmed):
 
 Formation: A variant of 4-2-3-1.
