@@ -151,3 +151,5 @@ They jost lost Isak, which means morale might drop because of that.
 At the end of the day, I feel like we have a more chance of winning this game. Player for player we are better, and we proved in the Valencia game that we have attacking quality even in our rotation players. We have a good record against Newcastle and also Newcastle have just lost Isak and lost out on transfer targets, which should also give us an edge in morale. If we don't make any stupid errors in the back, (Araújo, please!) we should be able to grind this one out.
 
 my prediction is either 2-0 or 3-1, but I'm leaning more towards 3-1. But also, I think it is possible that we draw the game, but it should be really unlikely.
+
+![I might be a little biased...](https://media1.tenor.com/m/SNF-bjM2ZgAAAAAC/might-be-biased-tiny-bit-biased.gif)
