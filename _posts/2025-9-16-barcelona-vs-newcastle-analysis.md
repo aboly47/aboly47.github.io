@@ -8,6 +8,8 @@ Here is my line up predictions, team analysis, and result prediction for this ga
 
 (My review of our start to the season is coming after gameweek 5.)
 
+(Also, I am working on including dark mode and a TTS service in the blog, but until then you can use the Dark Reader extension and the the speechify extension if you want these features.)
+
 ## Barcelona's lineup (Predicted, not confirmed):
 
 Formation: A variant of 4-2-3-1.
